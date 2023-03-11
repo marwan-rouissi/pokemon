@@ -279,7 +279,7 @@ class Ajouter_Pokemon:
     def __init__(self):
 
         # variable texte, invitation à ajouter un nouveau Pokemon
-        add_invite = "Ajouter un Pokemon: (nom, type)"
+        add_invite = "Ajouter un Pokemon: (Nom, Type)"
         # variable pour stocker le nouveau Pokemon et son type à ajouter
         text = ""
 
