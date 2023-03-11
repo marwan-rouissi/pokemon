@@ -1,0 +1,25 @@
+{
+    "Pokemon": [
+        {
+            "Name": "Coconfort",
+            "Type": "Insecte",
+            "Atq.": 23,
+            "Def.": 8,
+            "LvL": 1
+        },
+        {
+            "Name": "Rattata",
+            "Type": "Normal",
+            "Atq.": 98,
+            "Def.": 3,
+            "LvL": 85
+        },
+        {
+            "Name": "Florizarre",
+            "Type": "Plante",
+            "Atq.": 33,
+            "Def.": 3,
+            "LvL": 19
+        }
+    ]
+}

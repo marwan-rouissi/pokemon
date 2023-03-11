@@ -1,0 +1,84 @@
+{
+    "Pokemon": [
+        {
+            "Name": "Bulbizarre",
+            "Type": "Plante"
+        },
+        {
+            "Name": "Herbizarre",
+            "Type": "Plante"
+        },
+        {
+            "Name": "Florizarre",
+            "Type": "Plante"
+        },
+        {
+            "Name": "Salameche",
+            "Type": "Feu"
+        },
+        {
+            "Name": "Reptincel",
+            "Type": "Feu"
+        },
+        {
+            "Name": "Dracaufeu",
+            "Type": "Feu"
+        },
+        {
+            "Name": "Carapuce",
+            "Type": "Eau"
+        },
+        {
+            "Name": "Carabaffe",
+            "Type": "Eau"
+        },
+        {
+            "Name": "Tortank",
+            "Type": "Eau"
+        },
+        {
+            "Name": "Chenipan",
+            "Type": "Insecte"
+        },
+        {
+            "Name": "Chrysacier",
+            "Type": "Insecte"
+        },
+        {
+            "Name": "Papilusion",
+            "Type": "Insecte"
+        },
+        {
+            "Name": "Aspicot",
+            "Type": "Insecte"
+        },
+        {
+            "Name": "Coconfort",
+            "Type": "Insecte"
+        },
+        {
+            "Name": "Dardargnan",
+            "Type": "Eau"
+        },
+        {
+            "Name": "Roucool",
+            "Type": "Vol"
+        },
+        {
+            "Name": "Roucoups",
+            "Type": "Vol"
+        },
+        {
+            "Name": "Roucarnage",
+            "Type": "Vol"
+        },
+        {
+            "Name": "Rattata",
+            "Type": "Normal"
+        },
+        {
+            "Name": "Rattatac",
+            "Type": "Normal"
+        }
+    ]
+}
